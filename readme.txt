@@ -1,1 +1,1 @@
-Guest-Book application
+Guest-Book Application
